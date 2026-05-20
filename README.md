@@ -1,5 +1,3 @@
-Parallel Marketplace Data Processing
-
 Курсовой проект по дисциплине
 «Основы параллельных вычислений».
 
@@ -25,9 +23,13 @@ Parallel Marketplace Data Processing
 – chrono
 
 Сборка проекта
+
 g++ main.cpp -o marketplace_parallel -fopenmp
+
 Запуск
+
 ./marketplace_parallel
+
 Результаты тестирования
 
 Программа тестировалась на наборах данных:
